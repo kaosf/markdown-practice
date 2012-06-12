@@ -24,3 +24,13 @@ body 2
 
 1. item 1
 3. item 2?
+
+### Source code
+
+```Ruby
+def f(x)
+  x + 2
+end
+
+p f(1)
+```
